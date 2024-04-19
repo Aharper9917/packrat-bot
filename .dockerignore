@@ -1,0 +1,15 @@
+.DS_Store
+node_modules
+/.devcontainer
+/.github
+/.vscode
+/.svelte-kit
+/build
+/package
+.env
+.env.*
+!.env.example
+README.md
+LICENSE
+main
+main.exe
